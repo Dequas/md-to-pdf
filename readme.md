@@ -1,4 +1,4 @@
-# Markdown to PDF
+# FORK Markdown to PDF with puppeteer-core
 
 [![Github Actions Badge](https://github.com/simonhaenisch/md-to-pdf/workflows/Node%20CI/badge.svg)](https://github.com/simonhaenisch/md-to-pdf/actions)
 [![NPM version](https://img.shields.io/npm/v/md-to-pdf.svg)](https://www.npmjs.com/md-to-pdf)

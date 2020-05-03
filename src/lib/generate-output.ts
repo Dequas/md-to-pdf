@@ -1,4 +1,4 @@
-import puppeteer from 'puppeteer';
+import puppeteer from 'puppeteer-core';
 import { Config } from './config';
 import { isHttpUrl } from './is-http-url';
 

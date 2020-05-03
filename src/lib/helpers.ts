@@ -1,5 +1,5 @@
 import { parse, resolve } from 'path';
-import { PDFOptions } from 'puppeteer';
+import { PDFOptions } from 'puppeteer-core';
 
 /**
  * Get the directory that a file is in.

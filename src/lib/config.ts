@@ -1,6 +1,6 @@
 import { MarkedOptions } from 'marked';
 import { resolve } from 'path';
-import { LaunchOptions, PDFOptions } from 'puppeteer';
+import { LaunchOptions, PDFOptions } from 'puppeteer-core';
 
 export const defaultConfig: Config = {
 	basedir: process.cwd(),
